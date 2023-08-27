@@ -6,6 +6,18 @@ SmartLedController is a project focused on automating the illumination of a stai
 
 The SmartLedController project aims to create an automated LED lighting system for a staircase using Arduino. The system includes motion detection sensors placed in different rooms to trigger the illumination of the LED strips on the staircase. The Arduino code controls the behavior of the LEDs based on the detected motion.
 
+## Demo Videos
+
+<p align="center">
+  <a href="https://github.com/GalatanuBogdan/SmartLedControllerArduino/blob/main/DemoVideos/realStaircaseExample.mp4">
+    <img src="https://github.com/GalatanuBogdan/SmartLedControllerArduino/blob/main/DemoVideos/realStaircaseThumbnail.png" alt="Demo 1" width="180" height="320">
+  </a>
+  
+  <a href="[https://www.youtube.com/watch?v=videoclip2_id](https://github.com/GalatanuBogdan/SmartLedControllerArduino/blob/main/DemoVideos/prototypeStaircaseExample.mp4)">
+    <img src="https://github.com/GalatanuBogdan/SmartLedControllerArduino/blob/main/DemoVideos/prototypeStaircaseThumbnail.png" alt="Demo 2" width="180" height="320">
+  </a>
+</p>
+
 ## Arduino Code
 
 The Arduino code provided in this repository (`SmartLedController.ino`) is responsible for the functionality of the SmartLedController project. It includes the following main components:
